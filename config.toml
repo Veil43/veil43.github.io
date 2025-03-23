@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://veil43.github.io"
+base_url = "htt://veil43.github.io"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -7,7 +7,15 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
-author = "Reuel Nkomo"
+theme = "anpu"
+author = "name"
+title = "veil43"
+
+taxonomies = [
+    { name = "categories" },
+    { name = "tags" },
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
@@ -15,3 +23,6 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+anpu_menu_links = [
+    { url = "$BASE_URL/about/", name = "About" },
+]
