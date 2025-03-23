@@ -3,4 +3,5 @@
 # uses: shalzz/zola-deploy-action@60ff9c1e7b855b0960dc792e5b14f1dabc908531
 uses: shalzz/zola-deploy-action@v0.12.0
 with:
+  github_token: ${{ secrets.GITHUB_TOKEN }}
   publish_dir: ./public          
