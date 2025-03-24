@@ -7,26 +7,16 @@
         <loc>https://veil43.github.io/about/</loc>
     </url>
     <url>
-        <loc>https://veil43.github.io/another-post/</loc>
-        <lastmod>2020-06-06</lastmod>
-    </url>
-    <url>
         <loc>https://veil43.github.io/categories/</loc>
     </url>
     <url>
         <loc>https://veil43.github.io/page/1/</loc>
     </url>
     <url>
+        <loc>https://veil43.github.io/rastertoy/</loc>
+        <lastmod>2025-03-24</lastmod>
+    </url>
+    <url>
         <loc>https://veil43.github.io/tags/</loc>
-    </url>
-    <url>
-        <loc>https://veil43.github.io/tags/other/</loc>
-    </url>
-    <url>
-        <loc>https://veil43.github.io/tags/rust/</loc>
-    </url>
-    <url>
-        <loc>https://veil43.github.io/what-is-zola/</loc>
-        <lastmod>2020-06-06</lastmod>
     </url>
 </urlset>
