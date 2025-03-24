@@ -1,5 +1,6 @@
 #!/bin/bash
 
 zola build
-mv public/* .
+mkdir docs
+mv public/* docs/
 rm -rf public
