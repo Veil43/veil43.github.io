@@ -3,7 +3,7 @@ title = "About"
 path = "about"
 template = "about.html"
 [extra]
-portrait = ""
+portrait = "reuel_image1.jpg"
 +++
 
 Hello, my name is Reuel Nkomo, I am student in computer science at the Univerity of New South Wales. 
